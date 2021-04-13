@@ -1,0 +1,13 @@
+.status span {
+    font-size: 1.1em;
+    color: black;
+}
+
+.status span:hover {
+    background: violet;
+}
+
+.status input {
+    font-size: 1.1em;
+    color: black;
+}

@@ -1,0 +1,13 @@
+.descriptionBlock {
+    font-size: 1.1em;
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 400px;
+    cursor: pointer;
+}
+
+.contact {
+    padding-left: 10px;
+}
